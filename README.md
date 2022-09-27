@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on my LinkedIn [www.linkedin.com/in/gabriela-delamare](www.linkedin.com/in/gabriela-delamare)
 
-- 💬 Ask me about **Vanilla JavaScript, HTML and CSS**
+- 💬 Ask me about **React, Redux, Context API, Vanilla JavaScript, HTML and CSS**
 
 - 📫 How to reach me **gabrieladnr@gmail.com**
 
