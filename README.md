@@ -3,7 +3,7 @@
 
 - 📚 I’m currently learning **Docker, MySQL, Node.js, Express, Sequelize, TypeScript and OOP (object oriented programing)**
 
-- 📝 I regularly write articles on my [LinkedIn](www.linkedin.com/in/gabriela-delamare)
+- 📝 I regularly write articles on my [LinkedIn](https://www.linkedin.com/in/gabriela-delamare-9b1735165/)
 
 - 💬 Ask me about **React, Redux, Context API, Vanilla JavaScript, HTML and CSS**
 
