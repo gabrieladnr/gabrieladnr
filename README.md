@@ -7,9 +7,13 @@
 
 - 💬 Ask me about **React, Redux, Context API, Vanilla JavaScript, HTML and CSS**
 
+- 🌱 I started **my career transition from legal to technology in 2021**
+
+- 👨‍💻 All of my projects are available at [https://gabrieladnr.github.io/](https://gabrieladnr.github.io/)
+
 - 📫 How to reach me **gabrieladnr@gmail.com**
 
-- ⚖️ Fun fact **I have a bachelor degree in law**
+
 
 <h3 align="left">Connect with me:</h3>
 
