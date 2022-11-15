@@ -3,13 +3,13 @@
 
 - 📚 I’m currently learning **Docker, MySQL, Node.js, Express, Sequelize, TypeScript and OOP (object oriented programing)**
 
-- 📝 I regularly write articles on my LinkedIn [www.linkedin.com/in/gabriela-delamare](www.linkedin.com/in/gabriela-delamare)
+- 📝 I regularly write articles on my [LinkedIn](www.linkedin.com/in/gabriela-delamare)
 
 - 💬 Ask me about **React, Redux, Context API, Vanilla JavaScript, HTML and CSS**
 
 - 🌱 I started **my career transition from legal to technology in 2021**
 
-- 👨‍💻 All of my projects are available at [https://gabrieladnr.github.io/](https://gabrieladnr.github.io/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://gabrieladnr.github.io/)
 
 - 📫 How to reach me **gabrieladnr@gmail.com**
 
