@@ -35,7 +35,7 @@
             </td>
             <td width="80px" align="center">
             <span><strong>CSS</strong></span><br>
-            <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+            <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>React</strong></span><br>
