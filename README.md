@@ -35,7 +35,8 @@
             </td>
             <td width="80px" align="center">
             <span><strong>CSS</strong></span><br>
-            <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+            <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="typescript" width="40" height="40"/>
+            <img align="center" alt="CSS" height="30" width="40" src="">
             </td>
             <td width="80px" align="center">
             <span><strong>React</strong></span><br>
