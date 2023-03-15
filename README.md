@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriela Delamare</h1>
 <h3 align="center">A full-stack web development student from Brazil</h3>
 
-- 📚 I’m currently learning **Docker, MySQL, Node.js, Express, Sequelize, TypeScript and OOP (object oriented programing)**
-
 - 📝 I regularly write articles on my [LinkedIn](https://www.linkedin.com/in/gabriela-delamare-9b1735165/)
-
-- 💬 Ask me about **React, Redux, Context API, Vanilla JavaScript, HTML and CSS**
 
 - 🌱 I started **my career transition from legal to technology in 2021**
 
