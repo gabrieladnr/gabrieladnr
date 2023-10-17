@@ -1,21 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gabriela Delamare</h1>
-<h3 align="center">A full-stack web development student from Brazil</h3>
+<h3 align="center">A test automation analyst and full-stack web development from Brazil</h3>
 
-- 📝 I regularly write articles on my [LinkedIn](https://www.linkedin.com/in/gabriela-delamare-9b1735165/)
-
-- 🌱 I started **my career transition from legal to technology in 2021**
-
-- 👨‍💻 All of my projects are available at [my portfolio](https://gabrieladnr.github.io/)!
-
-- 📫 How to reach me **gabrieladnr@gmail.com**
-
-
-
+- I started **my career transition from legal to technology in 2021** and attended Trybe web development school
+- I currently work with RPA automation focused on web and desktop test automation
+- Most used technologies today: Python, Selenium, BotCity, Roboto Framework
 <h3 align="left">Connect with me:</h3>
 
 - Email: gabrieladnr@gmail.com
-- LinkedIn: <a href="https://linkedin.com/in/gabriela-delamare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriela-delamare" height="30" width="40" /></a>
-</p>
+- [LinkedIn](https://www.linkedin.com/in/gabriela-delamare-9b1735165/)
 
 ## Languages & Tools
 <table width="320px">
