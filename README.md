@@ -3,7 +3,7 @@
 
 - I started **my career transition from legal to technology in 2021** and attended Trybe web development school
 - I currently work with RPA automation focused on web and desktop test automation
-- Most used technologies today: Python, Selenium, BotCity, Roboto Framework
+- Most used technologies today: Python, Selenium, BotCity, Robot Framework
 <h3 align="left">Connect with me:</h3>
 
 - Email: gabrieladnr@gmail.com
